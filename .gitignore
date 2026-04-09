@@ -1,0 +1,39 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Dependencies
+node_modules/
+.pub-cache/
+.pub/
+/build/
+/target/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Generated files
+/dist/
+/lib/generated
+*.g.dart
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+.cache
+.tmp
